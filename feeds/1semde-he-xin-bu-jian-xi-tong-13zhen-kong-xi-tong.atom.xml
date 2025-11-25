@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>材料分析AI Lab - 1.SEM的核心部件系统/1.3真空系统</title><link href="https://upcma.github.io/" rel="alternate"/><link href="https://upcma.github.io/feeds/1semde-he-xin-bu-jian-xi-tong-13zhen-kong-xi-tong.atom.xml" rel="self"/><id>https://upcma.github.io/</id><updated>2025-09-18T10:00:00+08:00</updated><subtitle>中国石油大学华东材料分析课程主站</subtitle><entry><title>1.3真空系统</title><link href="https://upcma.github.io/5.html" rel="alternate"/><published>2025-09-18T10:00:00+08:00</published><updated>2025-09-18T10:00:00+08:00</updated><author><name>李哲伦</name></author><id>tag:upcma.github.io,2025-09-18:/5.html</id><summary type="html">&lt;p&gt;真空系统介绍&lt;/p&gt;</summary><content type="html">&lt;h3&gt;&lt;strong&gt;功能&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;为电子束的产生和传播提供无阻的路径。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;防止电子与气体分子碰撞而发生散射。&lt;/li&gt;
+&lt;li&gt;保护高灵敏的电子枪（尤其是FEG）和探测器。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;组成&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;机械泵（前级泵）、分子涡轮泵（高真空泵）、真空管道和阀门、真空规（测量真空度）。&lt;/p&gt;</content><category term="1.SEM的核心部件系统/1.3真空系统"/><category term="硬件"/></entry></feed>

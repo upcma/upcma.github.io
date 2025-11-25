@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>材料分析AI Lab - 1.SEM的核心部件系统/1.2扫描系统</title><link href="https://upcma.github.io/" rel="alternate"/><link href="https://upcma.github.io/feeds/1semde-he-xin-bu-jian-xi-tong-12sao-miao-xi-tong.atom.xml" rel="self"/><id>https://upcma.github.io/</id><updated>2025-09-11T10:00:00+08:00</updated><subtitle>中国石油大学华东材料分析课程主站</subtitle><entry><title>1.2扫描系统</title><link href="https://upcma.github.io/4.html" rel="alternate"/><published>2025-09-11T10:00:00+08:00</published><updated>2025-09-11T10:00:00+08:00</updated><author><name>李哲伦</name></author><id>tag:upcma.github.io,2025-09-11:/4.html</id><summary type="html">&lt;p&gt;扫描系统介绍&lt;/p&gt;</summary><content type="html">&lt;h3&gt;&lt;strong&gt;功能&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;控制电子束在样品表面进行精确的二维光栅状扫描。&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;原理&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;由扫描线圈产生偏转磁场，使电子束按照设定的速度和范围在样品表面逐行扫描。此扫描信号与显示器的扫描信号严格同步。&lt;/p&gt;</content><category term="1.SEM的核心部件系统/1.2扫描系统"/><category term="硬件"/></entry></feed>

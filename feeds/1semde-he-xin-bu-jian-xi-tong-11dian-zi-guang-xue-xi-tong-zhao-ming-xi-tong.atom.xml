@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>材料分析AI Lab - 1.SEM的核心部件系统/1.1电子光学系统（照明系统）</title><link href="https://upcma.github.io/" rel="alternate"/><link href="https://upcma.github.io/feeds/1semde-he-xin-bu-jian-xi-tong-11dian-zi-guang-xue-xi-tong-zhao-ming-xi-tong.atom.xml" rel="self"/><id>https://upcma.github.io/</id><updated>2025-09-04T10:00:00+08:00</updated><subtitle>中国石油大学华东材料分析课程主站</subtitle><entry><title>1.1.1电子枪</title><link href="https://upcma.github.io/1.html" rel="alternate"/><published>2025-09-04T10:00:00+08:00</published><updated>2025-09-04T10:00:00+08:00</updated><author><name>李哲伦</name></author><id>tag:upcma.github.io,2025-09-04:/1.html</id><summary type="html">&lt;p&gt;电子枪介绍&lt;/p&gt;</summary><content type="html">&lt;h3&gt;&lt;strong&gt;功能&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;发射电子。&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;类型&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;钨灯丝枪&lt;/strong&gt;：利用加热的V形钨丝发射热电子。成本低，但亮度、寿命和分辨率有限。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;六硼化镧（LaB₆）枪&lt;/strong&gt;：亮度比钨灯丝高一个数量级，分辨率更高，但对真空度要求更严苛。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;场发射枪（FEG）&lt;/strong&gt;：利用强电场从尖锐的钨单晶针尖“拉出”电子。分为冷场发射和热场发射。&lt;strong&gt;具有最高亮度、最小束斑直径和最佳分辨率&lt;/strong&gt;，是现代高分辨率SEM的首选。&lt;/li&gt;
+&lt;/ul&gt;</content><category term="1.SEM的核心部件系统/1.1电子光学系统（照明系统）"/><category term="硬件"/></entry><entry><title>1.1.2电磁透镜</title><link href="https://upcma.github.io/2.html" rel="alternate"/><published>2025-09-04T10:00:00+08:00</published><updated>2025-09-04T10:00:00+08:00</updated><author><name>李哲伦</name></author><id>tag:upcma.github.io,2025-09-04:/2.html</id><summary type="html">&lt;p&gt;电磁透镜介绍&lt;/p&gt;</summary><content type="html">&lt;h3&gt;&lt;strong&gt;功能&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;汇聚和缩小电子束。&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;组成&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;聚光镜&lt;/strong&gt;：通常有1-2级，主要作用是汇聚电子束，控制照射到样品上的电子束流大小。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;物镜&lt;/strong&gt;：是最终将电子束聚焦到样品表面的透镜，其性能直接决定最终束斑尺寸和图像分辨率。物镜内部通常装有&lt;strong&gt;扫描线圈&lt;/strong&gt;。&lt;/li&gt;
+&lt;/ul&gt;</content><category term="1.SEM的核心部件系统/1.1电子光学系统（照明系统）"/><category term="硬件"/></entry><entry><title>1.1.3光阑</title><link href="https://upcma.github.io/3.html" rel="alternate"/><published>2025-09-04T10:00:00+08:00</published><updated>2025-09-04T10:00:00+08:00</updated><author><name>李哲伦</name></author><id>tag:upcma.github.io,2025-09-04:/3.html</id><summary type="html">&lt;p&gt;光阑介绍&lt;/p&gt;</summary><content type="html">&lt;h3&gt;&lt;strong&gt;功能&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;位于透镜中心，用于限制电子束的发散角，剔除轴外电子，减少像差，从而提高图像质量和分辨率。&lt;/p&gt;</content><category term="1.SEM的核心部件系统/1.1电子光学系统（照明系统）"/><category term="硬件"/></entry></feed>

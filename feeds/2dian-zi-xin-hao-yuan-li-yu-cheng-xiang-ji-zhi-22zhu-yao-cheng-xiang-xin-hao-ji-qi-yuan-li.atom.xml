@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>材料分析AI Lab - 2.电子信号原理与成像机制/2.2主要成像信号及其原理</title><link href="https://upcma.github.io/" rel="alternate"/><link href="https://upcma.github.io/feeds/2dian-zi-xin-hao-yuan-li-yu-cheng-xiang-ji-zhi-22zhu-yao-cheng-xiang-xin-hao-ji-qi-yuan-li.atom.xml" rel="self"/><id>https://upcma.github.io/</id><updated>2025-10-16T10:00:00+08:00</updated><subtitle>中国石油大学华东材料分析课程主站</subtitle><entry><title>2.2.1二次电子成像</title><link href="https://upcma.github.io/8.html" rel="alternate"/><published>2025-10-16T10:00:00+08:00</published><updated>2025-10-16T10:00:00+08:00</updated><author><name>李哲伦</name></author><id>tag:upcma.github.io,2025-10-16:/8.html</id><summary type="html">&lt;p&gt;二次电子成像介绍&lt;/p&gt;</summary><content type="html">&lt;h3&gt;&lt;strong&gt;信号定义&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;入射电子将能量传递给样品原子，使其核外电子被电离而发射出的低能量电子（通常&amp;lt;50 eV）。&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;产生深度&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;很浅，仅限样品表面&lt;strong&gt;5-10 nm&lt;/strong&gt;层内。&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;成像特性&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;对表面形貌敏感&lt;/strong&gt;：SE产额受表面凹凸不平的影响。凸起、尖棱处SE产额高，图像亮；凹陷、平缓处SE产额低，图像暗。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;分辨率高&lt;/strong&gt;：因其发射区域小，是获得高分辨率表面形貌图像的主要信号。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;景深大&lt;/strong&gt;：能呈现清晰的三维立体感。&lt;/li&gt;
+&lt;/ul&gt;</content><category term="2.电子信号原理与成像机制/2.2主要成像信号及其原理"/><category term="软件"/></entry><entry><title>2.2.2背散射电子成像</title><link href="https://upcma.github.io/9.html" rel="alternate"/><published>2025-10-16T10:00:00+08:00</published><updated>2025-10-16T10:00:00+08:00</updated><author><name>李哲伦</name></author><id>tag:upcma.github.io,2025-10-16:/9.html</id><summary type="html">&lt;p&gt;背散射电子成像介绍&lt;/p&gt;</summary><content type="html">&lt;h3&gt;&lt;strong&gt;信号定义&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;入射电子与样品原子核发生卢瑟福弹性散射后，以大角度反弹出样品的高能量电子（能量接近入射电子）。&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;产生深度&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;较深，可达&lt;strong&gt;微米量级&lt;/strong&gt;，发射区域较二次电子大。&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;成像特性&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;对原子序数（Z）敏感&lt;/strong&gt;：BSE产率随样品组成元素的原子序数增大而增加。&lt;strong&gt;原子序数高的区域更亮，低的区域更暗&lt;/strong&gt;，用于进行&lt;strong&gt;成分分析&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;对形貌敏感&lt;/strong&gt;：也受表面倾角影响，但对比机制与SE不同。倾角大处，BSE更容易逃逸，信号强。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;分辨率低于SE&lt;/strong&gt;：因其发射区域更大。&lt;/li&gt;
+&lt;/ul&gt;</content><category term="2.电子信号原理与成像机制/2.2主要成像信号及其原理"/><category term="软件"/></entry></feed>
